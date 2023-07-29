@@ -1,3 +1,5 @@
+![logo](C:\Users\ASUS\Pictures\HArdik Ajmeriya.png)
+
 <h1 align="center">Hi 👋, I'm Hardik Ajmeriya</h1>
 <h3 align="center">A Software Devloper</h3>
 
