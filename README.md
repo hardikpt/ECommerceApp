@@ -1,4 +1,4 @@
-![logo](C:\Users\ASUS\Pictures\HArdik Ajmeriya.png)
+![logo](https://www.canva.com/design/DAFp_9jxahg/EkJY5UWfW0zG2XlkPgD7Rg/edit)
 
 <h1 align="center">Hi 👋, I'm Hardik Ajmeriya</h1>
 <h3 align="center">A Software Devloper</h3>
